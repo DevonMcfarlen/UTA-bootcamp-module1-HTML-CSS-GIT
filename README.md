@@ -5,16 +5,16 @@
 The HTML code provided for the Horiseon webpage was made entirely through div's, which
 isnt very accessable. Through changing the div's to more semantic elements, it made the
 webpage more accessable to users using alternative viewing methods or screen readers,
-so they are able to properly experience and use the webpage. \n
+so they are able to properly experience and use the webpage. <br>
 This helped teach me how to make a webpage more accessible, and where to use some of the
 difference semantic elements within HTML.
 
 ## Credits
 
-Christopher Bartlett https://github.com/cbbartlett \n
-Andrew Shoener https://github.com/ashoener \n
-Aeryk Andrews https://github.com/Acolyte03 \n
-Logan Dolence https://github.com/ltdolence \n
+Christopher Bartlett https://github.com/cbbartlett <br>
+Andrew Shoener https://github.com/ashoener <br>
+Aeryk Andrews https://github.com/Acolyte03 <br>
+Logan Dolence https://github.com/ltdolence <br>
 
 ## License
 
