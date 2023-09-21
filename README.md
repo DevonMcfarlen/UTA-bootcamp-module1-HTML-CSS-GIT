@@ -1,4 +1,4 @@
-# UTA Module 1 Code Accessibility Reactor Challenge
+# UTA Module 1 Code Accessibility Refactor Challenge
 
 ## Description
 
