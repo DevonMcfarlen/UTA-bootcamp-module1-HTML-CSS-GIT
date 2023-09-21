@@ -9,6 +9,12 @@ so they are able to properly experience and use the webpage. <br>
 This helped teach me how to make a webpage more accessible, and where to use some of the
 difference semantic elements within HTML.
 
+## Usage
+
+Link to the webpage: https://devonmcfarlen.github.io/UTA-bootcamp-module1-HTML-CSS-GIT/
+
+![alt text](assets/images/Horiseon_Screenshot.png)
+
 ## Credits
 
 Christopher Bartlett https://github.com/cbbartlett <br>
